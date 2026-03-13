@@ -22,10 +22,4 @@ I am a passionate developer focused on building AI-driven solutions for healthca
 - **💰 Smart Expense Manager:** AI-powered personal finance tracker.
 
 ---
-
- 📫 Connect with me:
-- **LinkedIn:** [Your Profile Link Here]
-- **Specialty:** Cybersecurity & AI Integration
-
----
 *“Building the future of HealthTech, one line of code at a time.”*
