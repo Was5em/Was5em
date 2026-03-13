@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Wassem Osama!
+👋 Hi, I'm Wassem Osama!
 
-### 🚀 Founder of [CARETECH](https://github.com/Was5em) | AI & Data Science Student at SUT
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Was5em&label=Profile%20Views&countColor=%23263159&style=flat-square)
+
+ 🚀 Founder of [CARETECH](https://github.com/Was5em) | AI & Data Science Student at SUT
 
 I am a passionate developer focused on building AI-driven solutions for healthcare and financial management. Currently pursuing my degree in **Data Science and Artificial Intelligence (Class of 2029)**.
 
 ---
 
-### 🛠️ My Tech Stack
+🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -14,14 +16,14 @@ I am a passionate developer focused on building AI-driven solutions for healthca
 
 ---
 
-### 🌟 Featured Projects
+ 🌟 Featured Projects
 - **🤖 AI Customer Support:** Intelligent agents using LangChain & RAG.
 - **🏥 CareTech Clinic System:** Java-based healthcare management prototype.
 - **💰 Smart Expense Manager:** AI-powered personal finance tracker.
 
 ---
 
-### 📫 Connect with me:
+ 📫 Connect with me:
 - **LinkedIn:** [Your Profile Link Here]
 - **Specialty:** Cybersecurity & AI Integration
 
