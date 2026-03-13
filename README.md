@@ -2,7 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Was5em&label=Profile%20Views&countColor=%23263159&style=flat-square)
 
- 🚀 Founder of [CARETECH](https://github.com/Was5em) | AI & Data Science Student at SUT
+ 🚀 AI & Data Science Student at SUT
 
 I am a passionate developer focused on building AI-driven solutions for healthcare and financial management. Currently pursuing my degree in **Data Science and Artificial Intelligence (Class of 2029)**.
 
