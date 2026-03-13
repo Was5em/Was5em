@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Wassem Osama!
 
-<!--
-**Was5em/Was5em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder of [CARETECH](https://github.com/Was5em) | AI & Data Science Student at SUT
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building AI-driven solutions for healthcare and financial management. Currently pursuing my degree in **Data Science and Artificial Intelligence (Class of 2029)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+- **🤖 AI Customer Support:** Intelligent agents using LangChain & RAG.
+- **🏥 CareTech Clinic System:** Java-based healthcare management prototype.
+- **💰 Smart Expense Manager:** AI-powered personal finance tracker.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [Your Profile Link Here]
+- **Specialty:** Cybersecurity & AI Integration
+
+---
+*“Building the future of HealthTech, one line of code at a time.”*
