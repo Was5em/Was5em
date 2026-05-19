@@ -1,6 +1,5 @@
 👋 Hi, I'm Wassem Osama!
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Was5em&label=Profile%20Views&countColor=%23263159&style=flat-square)
 
  🚀 AI & Data Science Student at SUT
 
