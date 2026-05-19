@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wassem Osama!
+# 👋 Hi, I'm Wassem Amer!
 
 🚀 **Junior AI Automation Specialist & Data Science Student at SUT**
 
@@ -32,7 +32,7 @@ I am a passionate developer focused on building AI-driven automation solutions, 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wassem-amer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassem-amer)
 
 ---
 
